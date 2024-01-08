@@ -4,9 +4,9 @@ public class Main {
     public static void main(String[] args) {
 
         String[] xx = new String[3];
-        xx[0] = "C++";
-        xx[1] = "Java";
-        xx[2] = "Swift";
+        xx[0] = "Coding";
+        xx[1] = "Time Managment";
+        xx[2] = "Project Managment";
 
         Employee Mubarak = new Employee("Mubarak", "IT", 1200);
         Director Ahmed = new Director("Ahmed", "IT", 1203, 45000);
